@@ -25,7 +25,7 @@ Projects aiming to find solutions in the following domains:
 
 <h2> 🔭 I’m currently working on ...</h2>
 
-A grant proposal to implement an 8-week project that will virtually connect American high schoolers and Korean undergraduate students to have roundtable discussions over globalization and its impact on culture, foreign policy, and media literacy. Check back in Spring 2025 for the data reports! 
+A grant proposal to implement an 8-week project that will virtually connect American high schoolers and Korean undergraduate students to have roundtable discussions over globalization and its impact on culture, US/ROK foreign policy, and media literacy. Check back in Spring 2025 for the data reports! 
 
 <h2>💬 Ask me about ...</h2>
 <tt>- How to find continuing education opportunities
